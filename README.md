@@ -6,4 +6,4 @@ Usage:\
 		- "-d" option sets delays between each command in seconds\
 Example:\
 	- marco record myscript\
-	- marco run myscript -d 2\
+	- marco run myscript -d 2
